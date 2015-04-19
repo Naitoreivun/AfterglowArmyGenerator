@@ -1,0 +1,34 @@
+true
+Czujnoœæ
+5
+Model otrzymuje +1 US w testach Wypatrywania.
+Harcownik
+6
+Po rozstawieniu modeli, przed rozpoczêciem rozgrywki, model mo¿e wykonaæ darmow¹ aktywacjê podczas której mo¿e wydaæ nie wiêcej ni¿ 3 PA na ruch.
+Odskoczenie
+5
+Model w testach Wycofania siê z walki zwiêksza swoj¹ ZW o 1.
+Padnij!
+5
+Gdy model jest celem ostrza³u mo¿e paœæ na ziemiê. Jeœli zda test ZW podnosi swoj¹ OB o +1/-.
+Skok
+5
+Model zwiêksza swoj¹ ZW o 1 wykonuj¹c skok.
+Skradanie siê
+5
+Model zwiêksza swoj¹ ZW o 1 gdy skrada siê/ukrywa i jest celem akcji Wypatrywanie.
+Szabrowanie
+5
+Model zwiêksza swoj¹ ZW o 1 w testach Szabrowania.
+Szybkoœæ
+8
+Model mo¿e poruszaæ siê o 1 cal szybciej.
+Ucieczka
+6
+Gdy przeciwnik zadeklaruje szar¿ê na jednostkê z t¹ zdolnoœci¹, mo¿e ona wykonaæ test ZW. Iloœæ sukcesów w teœcie wskazuje iloœæ cali, na które jednostka mo¿e oddaliæ siê od szar¿uj¹cego przeciwnika.
+Wspinaczka
+5
+Model zwiêksza swoj¹ ZW o 1 w testach wspinaczki.
+Zwiadowca
+10
+Model z t¹ zdolnoœci¹ nie jest wystawiany razem z innymi modelami ale po tym gdy obaj gracze wystawi¹ ju¿ wszystkie jednostki bez tej zdolnoœci. Dodatkowo model nie musi byæ wystawiony we w³asnej strefie rozstawienia. Gracz mo¿e wystawiæ go w dowolnym miejscu na stole, jednak nie bli¿ej ni¿ 12 cali od jakiejkolwiek jednostki przeciwnika. Jeœli model jest wystawiony we w³asnej strefie to mo¿e byæ w trybie Warty na pocz¹tku gry.

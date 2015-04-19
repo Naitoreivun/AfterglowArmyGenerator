@@ -1,0 +1,16 @@
+Wojownik Czaszki
+4 1 
+Jednostka Specjalna
+25mm
+75
+3 3 3 2 4 2 2 7 7
+false true true true
+25
+2
+3
+Cios w plecy
+Jeœli Wojownik Czaszki wykonuje atak w tyln¹ strefê przeciwnika rzuca dwiema dodatkowymi koœæmi zamiast jednej, a jego ataki zyskuj¹ zasadê Przebicie Pancerza.
+Trucizna
+Ataki w walce w zwarciu podlegaj¹ zasadzie Trucizna. Model, który otrzyma³ ranê w zwarciu otrzymuje ¿eton Trucizny. Na koniec tury wszystkie jednostki z ¿etonem Trucizny wykonuj¹ test WT. Nieudany oznacza otrzymanie jednej rany bez mo¿liwoœci wykonania testu Pancerza.
+Skradanie siê
+Wojownik Czaszki zwiêksza swoj¹ ZW o 1 gdy skrada siê/ukrywa i jest celem akcji Wypatrywanie.

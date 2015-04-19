@@ -1,0 +1,15 @@
+Fanatyk
+7 0
+Jednostka Podstawowa
+25mm
+21
+2 1 1 2 2 2 1 6 6
+false false true true
+10
+1
+1
+Krwawy Sza³
+Jednostka Fanatyków, która otrzyma³a przynajmniej jedno obra¿enie, zwiêksza UW, SI i SW o 1. Jeœli w momencie aktywacji w jej polu widzenia i zasiêgu ruchu znajduje siê wroga jednostka, musi na ni¹ zaszar¿owaæ.
+6
+Opis i zasady
+Jednostka Fanatyków sk³adaj¹ca siê przynajmniej z dwóch modeli mo¿e dokupiæ dodatkowy model Pos³añca Gniewu za 35 punktów.<br>Pos³aniec Gniewu ma statystyki Fanatyka i zdolnoœæ Krwawy Sza³.Mo¿na wykupiæ mu ekwipunek i zdolnoœci takie jak oddzia³owi, do którego nale¿y jednak nie jest to konieczne.<br>Pos³aniec Gniewu posiada przykut¹ ³añcuchami do cia³a bombê. W dowolnym momencie swojej aktywacji mo¿e zadeklarowaæ detonacjê. Nie jest to akcja i nie wymaga wykorzystania Punktów Akcji. Po dokonaniu detonacji wszystkie modele stykaj¹ce siê z nim podstawk¹ otrzymuj¹ k2 trafienia z SI 10. Modele w promieniu 3 cali otrzymuj¹ pojedyncze trafienie z SI 8. Po rozliczeniu tych trafieñ nale¿y usun¹æ model Pos³añca ze sto³u.<br>W trakcie aktywacji Pos³aniec Gniewu mo¿e opuœciæ swój oddzia³ zrywaj¹c koherencjê jednak na koniec tej aktywacji musi on dokonaæ detonacji.<br>Jeœli Pos³aniec Gniewu zostanie nieprzytomny lub martwy przed zadeklarowaniem detonacji gracz rzuca k10. Przy wyniku 1 i 2 bomba wybucha.

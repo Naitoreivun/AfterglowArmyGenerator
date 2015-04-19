@@ -1,0 +1,4 @@
+true
+Charyzma
+6
+Tylko Przywódca. Model z t¹ zdolnoœci¹ mo¿e przerzuciæ nieudany test Rozkazu.

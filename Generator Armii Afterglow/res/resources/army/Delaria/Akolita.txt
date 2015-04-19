@@ -1,0 +1,12 @@
+Akolita
+3 1
+Jednostka Specjalna
+25mm
+56
+3 2 3 3 2 2 3 6 7
+false true true false
+25
+2
+1
+Psalmy nienawiœci
+Jednostki Delaryjczyków w odleg³oœci 8 cali od Akolity mog¹ przerzucaæ koœci w testach Ataku i Pancerza, na których wypad³o 1.

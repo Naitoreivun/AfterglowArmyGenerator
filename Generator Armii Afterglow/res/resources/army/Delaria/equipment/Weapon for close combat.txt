@@ -1,0 +1,25 @@
+Broñ rêczna
+2
++4
+-
+-
+Broñ bia³a dobrej jakoœci
+5
++5
+-
+-
+Broñ dwurêczna
+8
++6
+-
+Ciê¿ka; Wymaga u¿ycia obu r¹k w zwarciu.
+W³ócznia
+4
++4
+1
+Model mo¿e zaatakowaæ jednostkê znajduj¹c¹ siê w odleg³oœci 1 cala od niego. Nie musi stykaæ siê podstawk¹ z przeciwnikiem, wci¹¿ jednak musi zadeklarowaæ szar¿ê jeœli chce zaatakowaæ.
+Korbacz
+5
++4
+-
+Ciê¿ka; W pierwszej turze walki modyfikator SI +6.

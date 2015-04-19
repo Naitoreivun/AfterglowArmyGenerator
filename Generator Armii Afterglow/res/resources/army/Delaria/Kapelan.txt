@@ -1,0 +1,16 @@
+Kapelan
+0 2
+Bohater
+25mm
+102
+4 4 4 3 3 3 4 7 8
+true true true true
+40
+3
+2
+Litania nienawiœci
+Kapelan, oraz jednostki znajduj¹ce siê w odleg³oœci 8 cali, podlegaj¹ zasadzie Nienawiœæ.
+Taktyka
+Gracz otrzymuje dodatkowy ¿eton do Puli Rozkazów na pocz¹tku ka¿dej tury.
+S³u¿ i giñ!
+Kapelan mo¿e powtórzyæ nieudany test Rozkazu, dodatkowo jednostki w odleg³oœci 8 cali od Kapelana mog¹ przerzuciæ niezdane testy Jaj. Jeœli mimo tych przerzutów test Rozkazu lub test Jaj siê nie powiedzie Kapelan natychmiast wykonuje darmowy strza³ z posiadanej przez niego broni strzeleckiej (jeœli tak¹ posiada) w jednostkê, która nie zda³a testu lub mia³a otrzymaæ Rozkaz.

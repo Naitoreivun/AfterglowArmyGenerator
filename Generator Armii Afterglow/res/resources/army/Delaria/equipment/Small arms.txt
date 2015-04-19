@@ -1,0 +1,66 @@
+Proca
+2
+1
+5
+10
+-
+No¿e do rzucania
+2
+1
++4
+SIx3
+-
+£uk
+4
+1
+6
+16
+-
+Kusza
+5
+2
+7
+18
+-
+Szmelcowy pistolet
+3
+1
+6
+12
+-
+Pistolet
+6
+1
+7
+14
+-
+Du¿y gnat
+8
+1
+7
+14
+Przebicie pancerza 1.
+Obrzyn
+4
+1
+7
+8
+-
+Strzelba
+7
+1
+7
+16
+-
+Karabin
+12
+1
+7
+18
+Seria, Przebicie pancerza 1.
+Spowiednik
+12
+1
+7
+14
+Tylko Kapelan lub Inkwizytor. Przebicie pancerza 1. Raz na grê mo¿na wykorzystaæ go jak Miotacz Ognia.

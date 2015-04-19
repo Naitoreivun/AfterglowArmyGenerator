@@ -1,0 +1,20 @@
+Prorok
+2 2
+Bohater
+25mm
+100
+4 3 3 2 2 3 4 7 7
+true true false false
+35
+3
+3
+Bo¿y pomazaniec
+Raz na turê Prorok mo¿e przywo³aæ jeden z Cudów zamieszczonych w Liœcie Cudów. Jest to Akcja Z³o¿ona i wymaga zu¿ycia 1PA oraz zdania testu SW. Ka¿dy Cud mo¿e byæ skutecznie wykorzystany tylko raz w trakcie potyczki.
+Stygmatyzacja
+Na pocz¹tku pierwszej tury gracz mo¿e wybraæ dowoln¹ jednostkê Delaryjczyków w promieniu 8 cali od Proroka (w tym samego Proroka). Wybrana jednostka zostaje naznaczona stygmatami. Jednostka otrzymuje jedn¹ ranê, w zamian za to podlega zasadzie Krwawy Sza³.
+Cuda
+Ka¿dy Cud mo¿e byæ u¿yty tylko raz w trakcie potyczki. U¿ycie Cudu jest Akcj¹ Z³o¿on¹ i kosztuje 1PA. Aby wykorzystaæ Cud Prorok musi zdaæ test SW o PT okreœlonym przy opisie danego Cudu. Niezdany test nie oznacza wykorzystania Cudu dla okreœlenia czy mo¿na go wykorzystaæ jeszcze raz.<br><br>Lista Cudów:<br><br>Mêczennik – PT 7 – Prorok wybiera sprzymierzony model Delaryjczyka w promieniu 5 cali. Model ten zostaje zabity. Pozosta³e modele Delaryjczyków w promieniu 8 cali od Proroka otrzymuj¹ modyfikator +1 US +1 UW do koñca tury.<br><br>Ogieñ oczyszczenia – PT 8 – Prorok oraz wszystkie modele w promieniu 3 cali od jego modelu otrzymuj¹ liczbê trafieñ równ¹ liczbie sukcesów w teœcie SW Proroka. Trafienia maj¹ SI 7.<br><br>Omen – PT 9 – przez niebo przetacza siê znak, który wlewa w serca wyznawców Jedynego nowego ducha walki. Do koñca tury jednostki Delaryjczyjów zmniejszaj¹ PT wszystkich testów o 1.<br><br>Uzdrowienie – PT 7 – Dowolna jednostka w promieniu 8 cali zostaje uleczona z liczby ran równej liczbie sukcesów w teœcie SW.
+Œwiêta wojna
+Jeœli Prorok jest Przywódc¹ wszystkie jednostki Delaryjczyków w promieniu 8 cali podlegaj¹ zasadzie Krwawy Sza³ (po otrzymaniu rany otrzymuj¹ modyfikator +1 UW, +1 SI, +1 SW ale musz¹ wykonywaæ akcjê Szar¿a jeœli przeciwnik znajduje siê w jej zasiêgu).
+~ Relikwia ~
+Prorok mo¿e zakupiæ Relikwiê za 20 punktów. Nie jest ona wliczana do limitu ekwipunku.<br>Relikwia jest noszona przez s³ugê Œwi¹tyni. Jest to osobny model, który nie posiada statystyk, nie mo¿e atakowaæ ani samemu byæ atakowany. Traktowany jest on jak znacznik. Porusza siê on razem z Prorokiem i zawsze musi znajdywaæ siê w odleg³oœci nie wiêkszej ni¿ 3 cale od niego. Jeœli Prorok jest<br>nieprzytomny lub martwy Relikwia nie porusza siê.<br>Jednostki, zarówno sojusznicze jak i przeciwnika, mog¹ przej¹æ Relikwiê, jeœli Prorok jest martwy lub nieprzytomny, tak jak przejmuje siê znacznik Fantów.<br><br><b>Relikwia daje nastêpuj¹ce efekty:</b><br>Raz na turê, jedna jednostka Delaryjczyków znajduj¹ca siê w odleg³oœci nie wiêkszej ni¿ 8 cali od Relikwii mo¿e przerzuciæ jedn¹ koœæ w dowolnym teœcie, tak jakby posiada³a zdolnoœæ Farciarz.<br>Raz na grê Prorok mo¿e przywo³aæ moc Relikwii i zmniejszyæ PT wybranego Cudu o 2.<br>Relikwia jest znacznikiem, którego kontrolowanie na koñcu potyczki zapewnia 2 Punkty Zwyciêstwa.

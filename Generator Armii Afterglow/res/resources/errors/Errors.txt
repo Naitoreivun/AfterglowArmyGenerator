@@ -1,0 +1,22 @@
+ADDITIONAL SKILLS LIMIT
+Jednostka posiada maksymaln¹ iloœæ dodatkowych umiejêtnoœci. Usuñ niepotrzebne, aby zwolniæ miejsce.
+ALREADY OWNED SKILL
+Jednostka ju¿ posiada tê umiejêtnoœæ.
+BUSY NICK
+Podana nazwa jest ju¿ u¿ywana przez inny oddzia³.
+NOT EXISTS
+Jednostka takiego typu nie istnieje. (?)
+WEAPONS VALUE LIMIT
+Wybrany przedmiot jest za drogi. Usuñ inne, aby odzyskaæ fundusze.
+ALREADY OWNED WEAPON
+Jednostka ju¿ posiada ten przedmiot.
+HEROES AND BASIC UNIT BEGINNING
+Ka¿da banda musi sk³adaæ siê przynajmniej z jednej jednostki podstawowej i jednego bohatera.
+SPECIAL UNITS LIMIT
+Iloœæ oddzia³ów specjalnych nie mo¿e byæ wiêksza od podstawowych.
+HEROES LIMIT
+Na ka¿de pe³ne 500 punktów wartoœci bandy mo¿e ona zawieraæ jednego bohatera. Niezale¿nie od wielkoœci bandy musi znajdowaæ siê w niej przynajmniej jeden bohater.
+SPECIALISTS LIMIT
+Zdolnoœæ Specjalista mo¿e byæ wykupiona jeden raz na ka¿de 300 punktów wartoœci bandy. Dotyczy to równie¿ podstawowych umiejêtnoœci przy tworzeniu postaci.
+POINT MEN AND SKIRMISHERS LIMIT
+Liczba jednostek w bandzie, które posiadaj¹ zdolnoœci Zwiadowca lub Harcownik, nie mo¿e byæ wiêksza od liczby jednostek bez tych zdolnoœci. Dotyczy to równie¿ podstawowych umiejêtnoœci przy tworzeniu postaci.

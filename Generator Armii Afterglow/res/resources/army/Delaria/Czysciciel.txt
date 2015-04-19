@@ -1,0 +1,14 @@
+Czyœciciel
+5 1
+Jednostka Specjalna
+25mm
+56
+3 3 3 3 2 2 2 6 7
+false true true true
+30
+2
+2
+Specjalista
+Czyœciciel mo¿e korzystaæ z broni z grupy Specjalna.
+Nienawiœæ
+Czyœciciel walcz¹cy z przeciwnikiem, którego darzy nienawiœci¹, zwiêksza UW o 1 w pierwszej turze walki.

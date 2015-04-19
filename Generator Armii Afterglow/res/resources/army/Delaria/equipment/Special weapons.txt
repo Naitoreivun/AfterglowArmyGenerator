@@ -1,0 +1,30 @@
+CKM
+15
+2
+8
+18
+Seria, Przebicie pancerza 1.
+Granatnik
+20
+2
+10
+18
+Przebicie pancerza 1; znacznik Wybuchu (3 cale), Znoszenie; Model znajduj¹cy siê w centrum znacznika otrzymuje trafienie z SI 10, pozosta³e modele dotkniête przez znacznik otrzymuj¹ trafienie z SI 8.
+Karabin snajperski
+17
+2
+8
+25
+Przebicie pancerza 1; Celownik (brak kar za strza³ na odleg³oœæ wiêksz¹ ni¿ 8 cali).
+Miotacz ognia
+15
+2
+7
+-
+Przebicie pancerza 1; Znacznik P³omienia, k2 trafienia/model.
+Pi³a motorowa
+15
+-
++7
+-
+Ciê¿ka; Przebicie pancerza 1; broñ do walkiw zwarciu; Paliwo (jeœli w teœcie ataku wypad³o 2x1 koñczy siê paliwo i broñ traci bonus do SI).

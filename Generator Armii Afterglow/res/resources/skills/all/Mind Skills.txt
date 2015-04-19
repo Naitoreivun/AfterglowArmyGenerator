@@ -1,0 +1,25 @@
+true
+Farciarz
+5
+Model z t¹ zdolnoœci¹ mo¿e przerzuciæ jedn¹ dowoln¹ kostkê w trakcie gry.
+Leczenie
+7
+Model stykaj¹cy siê podstawk¹ z innym rannym modelem mo¿e wydaæ 1PA i wykonaæ test SW. Udany oznacza uleczenie jednej rany. Jest to Akcja Z³o¿ona.
+Mechanik
+6
+Model mo¿e wykonaæ test SW by naprawiæ uszkodzony sprzêt. Jest to Akcja Z³o¿ona.
+Nerwy ze stali
+5
+Model zwiêksza swoj¹ SW o 1 w testach Jaj.
+Nienawiœæ
+5
+Model walcz¹cy z przeciwnikiem, którego darzy nienawiœci¹ zwiêksza UW o 1 w pierwszej turze walki.
+Opanowanie
+5
+Model nie otrzymuje kary za strzelanie do celu gdy inny przeciwnik jest bli¿ej i znajduje siê w odleg³oœci nie wiêkszej ni¿ 8 cali.
+Straszliwa reputacja
+5
+Model ma tak z³¹ reputacjê, ¿e w turze, w której szar¿uje podlega zasadzie Straszny.
+Zastraszenie
+5
+Model mo¿e wydaæ 1PA i wykonaæ przeciwstawny test SW z wybranym przeciwnikiem w promieniu 10 cali. Jeœli wygra test przeciwnik musi zdaæ test SW jeœli bêdzie chcia³ zaatakowaæ model w najbli¿szej swojej fazie aktywacji.

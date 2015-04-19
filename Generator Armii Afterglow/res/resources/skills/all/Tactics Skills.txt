@@ -1,0 +1,16 @@
+true
+Geniusz taktyczny
+10
+Gracz otrzymuje +1 sukces w testach Inicjatywy.
+Handel
+10
+Model z t¹ zdolnoœci¹ otrzymuje dodatkowe 10 punktów na zakup ekwipunku.
+Informator
+7
+Za ka¿dy model z t¹ zdolnoœci¹ gracz mo¿e podejrzeæ jedn¹ kartê Misji przeciwnika przed rozpoczêciem rozgrywki ale po wystawieniu modeli.
+Miestrz pu³apek
+15
+Za ka¿dy model z t¹ zdolnoœci¹ gracz mo¿e wystawiæ jeden dowolny model bez zdolnoœci Harcownik lub Zwiadowca, tak jakby jednostka ta posiada³a odpowiedni¹ zdolnoœæ.
+Taktyka
+8
+Gracz otrzymuje dodatkowy ¿eton do Puli Rozkazów na pocz¹tku ka¿dej tury.

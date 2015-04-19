@@ -1,0 +1,49 @@
+true
+Atak wielokrotny I
+5
+Model mo¿e wykonaæ wiêcej ni¿ jeden atak podczas walki rzucaj¹c jedn¹ koœci¹. Patrz zasady walki.
+Atak wielokrotny II
+9
+Model mo¿e wykonaæ wiêcej ni¿ jeden atak podczas walki rzucaj¹c dwiema koœæmi. Patrz zasady walki.
+Atak wielokrotny III
+12
+Model mo¿e wykonaæ wiêcej ni¿ jeden atak podczas walki rzucaj¹c trzema koœæmi. Patrz zasady walki.
+Bijatyka
+5
+Model nie zmniejsza swojej OB. Walcz¹c z przewa¿aj¹c¹ iloœci¹ przeciwników.
+Brudne zagrania
+10
+W pierwszej turze walki w zwarciu przeciwnik trafiony przez model z t¹ zasad¹ musi przerzuciæ sukcesy w teœcie Pancerza.
+Druzgocz¹ca szar¿a
+5
+Szar¿uj¹c model zwiêksza swoj¹ SI o 1 do koñca aktywacji.
+Kontratak
+5
+Gdy model zostaje zaszar¿owany wykonuje test ataku równoczeœnie z szar¿uj¹cym.
+Odpornoœæ
+5
+Model zmniejsza o 1 PT wszystkich testów WT.
+Rewolwerowiec
+10
+Model mo¿e korzystaæ jednoczeœnie z dwóch broni palnych, które nie wymagaj¹ u¿ycia obu r¹k (z wszelkiego rodzaju pistoletów, obrzynów, du¿ych gnatów). Raz na turê mo¿e strzeliæ z obu broni wydaj¹c PA tylko jednej z nich (zawsze tej, która wymaga wiêcej PA). Jednostka wykonuje dwa osobne testy ataku o PT zwiêkszonym o 1. Mo¿e wybraæ dwa ró¿ne cele dla ostrza³u.
+Rozbrojenie
+5
+Jeœli jednostka w teœcie walki mia³a tyle samo sukcesów co przeciwnik, którego atakuje (minimum 1 sukces), mo¿e, zamiast zadawaæ obra¿enia, rozbroiæ przeciwnika. Upuszcza on broñ i do koñca walki nie otrzymuje bonusów wynikaj¹cych z korzystania z niej.
+Specjalista
+8
+Model z t¹ zdolnoœci¹ mo¿e korzystaæ z broni z grupy Specjalna.
+Strzelec wyborowy
+5
+Model zmniejsza PT testów ataku podczas strzelania o 1.
+Szybki cyngiel
+10
+Model mo¿e obni¿yæ koszt PA pierwszego strza³u w swojej fazie aktywacji o 1 (minimalnie do 0PA) jednak ten i kolejne strza³y w tej turze, które wykonuje model, maj¹ PT zwiêkszony o 1.
+Twardziel
+10
+Model mo¿e anulowaæ pierwsz¹ ranê jak¹ otrzyma w trakcie potyczki.
+Unik
+10
+Jeœli model zostanie trafiony w walce wrêcz mo¿e wykonaæ test ZW. Ka¿dy sukces w tym teœcie anuluje jedno trafienie. Ze zdolnoœci mo¿na skorzystaæ tylko raz na turê.
+Walka
+5
+Model otrzymuje modyfikator +1 do trafienia w testach ataku w walce w zwarciu.

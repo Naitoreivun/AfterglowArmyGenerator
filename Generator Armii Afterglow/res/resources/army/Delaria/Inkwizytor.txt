@@ -1,0 +1,16 @@
+Inkwizytor
+1 2
+Bohater
+25mm
+112
+4 4 4 3 3 3 4 7 8
+true true true true
+40
+3
+2
+Os¹dzenie
+Przed rozpoczêciem gry gracz wybiera jedn¹ jednostkê przeciwnika. Inkwizytor mo¿e przerzuciæ do dwóch koœci, na których nie wypad³y sukcesy, w ka¿dym teœcie ataku przeciwko tej jednostce.
+Straszliwa reputacja
+Inkwizytor ma tak z³¹ reputacjê, ¿e w turze, w której szar¿uje, podlega zasadzie Straszny.
+Polowanie na heretyka
+Jeœli inkwizytor jest przywódc¹ bandy jednostki w odleg³oœci 8 cali od niego mog¹ przerzuciæ jedn¹ koœæ, na której nie wypad³ sukces, w ka¿dym teœcie ataku przeciwko jednostce wybranej przez Inkwizytora do Os¹dzenia.

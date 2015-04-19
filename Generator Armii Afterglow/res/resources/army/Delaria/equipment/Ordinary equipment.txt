@@ -1,0 +1,21 @@
+Dodatkowa amunicja
+2
+Anuluje pojedynczy efekt wyczerpania amunicji.
+Dodatkowy magazynek
+3
+Anuluje pojedynczy efekt wyczerpania amunicji dla broni z zasad¹ Seria.
+Gniew
+5
+Jednokrotnego u¿ycia; Jednostka mo¿e za¿yæ narkotyk na pocz¹tku swojej aktywacji. Do koñca tury otrzymuje modyfikator +1 SI +1 SW -1 US -1ZW.
+Granat
+8
+Jednokrotnego u¿ycia; Zas: SIx4; Znoszenie; Po³ó¿ ma³y znacznik wybuchu (œrednica 3 cale) w miejscu gdzie wyl¹dowa³ granat. Modele, których podstawek dotyka znacznik, otrzymuj¹ trafienie z SI 9.
+Granat dymny
+4
+Jednokrotnego u¿ycia; Zas: SIx4; Znoszenie; Po³ó¿ okr¹g³y znacznik dymu (œrednica 5 cali) w miejscu gdzie wyl¹dowa³ granat. Jednostki atakuj¹ce przez dym zwiêkszaj¹ PT w testach ataku (w walce w zwarciu i przy strzelaniu) o 2. Znacznik pozostaje na miejscu do koñca kolejnej tury.
+Granat gazowy
+6
+Jednokrotnego u¿ycia; Zas: SIx4; Znoszenie; Po³ó¿ okr¹g³y znacznik dymu (œrednica 3 cale) w miejscu gdzie wyl¹dowa³ granat. Modele, których podstawek dotyka znacznik, musz¹ zdaæ test WT lub otrzymaj¹ 1 ranê bez mo¿liwoœci wykonania testu Pancerza.
+Maska przeciwgazowa
+3
+Pozwala wykonaæ test Pancerza przed gazami bojowymi z PP-1.

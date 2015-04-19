@@ -1,0 +1,18 @@
+Ogar Zemsty
+9 5
+Jednostka Dodatkowa
+25mm
+30
+2 2 2 2 3 1 1 6 6
+false false false false
+0
+0
+3
+Zwierzê
+Ogar nie mo¿e szabrowaæ, zdobywaæ fantów, dokonywaæ grabie¿y, nie mo¿na przydzielaæ mu znaczników z Puli Rozkazów.
+Szybki (7)
+Wykonuj¹c akcjê Ruch za 1 PA, Ogar mo¿e przebiec odleg³oœæ 7 cali.
+Pies obronny
+Gdy Inkwizytor zostanie zaszar¿owany przez wrog¹ jednostkê, po dostawieniu siê modeli przeciwnika do modelu Inkwizytora, Ogary Zemsty mog¹ natychmiast wykonaæ darmow¹ akcjê Szar¿a i zostaæ dostawione do modelu przeciwnika.
+2
+Inkwizytor i Ogary Zemsty tworz¹ oddzia³. Musz¹ zachowaæ koherencjê, s¹ aktywowani jednoczeœnie ale w odró¿nieniu od zwyk³ych oddzia³ów mog¹ wykonywaæ ró¿ne akcje. Ogary Zemsty mog¹ zerwaæ koherencjê tylko w wypadku wykonywania Szar¿y na jednostkê wybran¹ do Os¹dzenia.

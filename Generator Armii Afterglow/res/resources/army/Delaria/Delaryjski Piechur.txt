@@ -1,0 +1,11 @@
+Delaryjski Piechur
+6 0
+Jednostka Podstawowa
+25mm
+30
+2 2 2 2 2 2 2 6 6
+false false true true
+15
+1
+0
+5

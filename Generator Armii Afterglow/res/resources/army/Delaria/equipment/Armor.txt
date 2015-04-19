@@ -1,0 +1,16 @@
+Œmieciozbroja
+2
++1
+Jeœli œmieciozbroja ochroni przed dwoma lub wiêcej trafieniami rozpada siê i model traktowany jest tak jakby nie mia³ pancerza.
+Lekki pancerz
+3
+0
+-
+Œredni pancerz
+6
++1
+-
+Ciê¿ki pancerz
+12
++2
+Zmniejsza ZW o 1 (min. do poziomu 1).
