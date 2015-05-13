@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 
 /**
  * Generator Armii Afterglow
- * @version 1.0 - 13.12.2014
+ * @version 1.0
  * @author Naitoreivun
  */
 public class Generator
